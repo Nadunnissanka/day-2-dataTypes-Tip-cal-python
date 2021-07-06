@@ -1,4 +1,5 @@
-#Tip calculator
+# Tip calculator
+# this a tip calclator software created by using python
 print("Welcome to the Tip Calculator")
 print("-----------------------------\n")
 bill_amount = float(input("What was the total bill: $"))
